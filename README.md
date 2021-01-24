@@ -1,1 +1,1 @@
-# glbasecamp_networking
+# GLOBAL LOGIC NETWORKING BASECAMP NOTES
